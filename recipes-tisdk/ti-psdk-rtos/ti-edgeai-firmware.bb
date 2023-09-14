@@ -1,7 +1,7 @@
 SUMMARY = "TI RTOS prebuilt binary firmware images for EdgeAI"
 
 LICENSE = "TI-TFL"
-LIC_FILES_CHKSUM = "file://${COREBASE}/../meta-ti/meta-ti-bsp/licenses/TI-TFL;md5=a1b59cb7ba626b9dbbcbf00f3fbc438a"
+LIC_FILES_CHKSUM = "file://${COREBASE}/../meta-myir/meta-myir-bsp/licenses/TI-TFL;md5=a1b59cb7ba626b9dbbcbf00f3fbc438a"
 
 COMPATIBLE_MACHINE = "j721e-evm|j721e-hs-evm|j721s2-evm|j721s2-hs-evm|j784s4-evm|j784s4-hs-evm|am62axx-evm"
 

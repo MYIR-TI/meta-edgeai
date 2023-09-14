@@ -1,6 +1,6 @@
 SUMMARY = "EdgeAI TIDL Models"
 LICENSE = "TI-TFL"
-LIC_FILES_CHKSUM = "file://${COREBASE}/../meta-ti/meta-ti-bsp/licenses/TI-TFL;md5=a1b59cb7ba626b9dbbcbf00f3fbc438a"
+LIC_FILES_CHKSUM = "file://${COREBASE}/../meta-myir/meta-myir-bsp/licenses/TI-TFL;md5=a1b59cb7ba626b9dbbcbf00f3fbc438a"
 
 export http_proxy
 export https_proxy
